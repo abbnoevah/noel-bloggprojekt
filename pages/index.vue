@@ -43,11 +43,7 @@
 
             <div
               class="w-full h-96"
-              style="
-                background: rgb(17, 24, 39);
-                background: linear-gradient(0deg, rgba(17, 24, 39, 1) 0%, rgba(17, 24, 39, 0.8) 25%, rgba(17, 24, 39, 0.6) 50%,rgba(252, 255, 255, 0) 100%
-                );
-              "
+              style="background: rgb(17, 24, 39); background: linear-gradient(0deg, rgba(17, 24, 39, 1) 0%, rgba(17, 24, 39, 0.8) 25%, rgba(17, 24, 39, 0.6) 50%,rgba(252, 255, 255, 0) 100%);"
             ></div>
           </div>
         </div>
@@ -69,24 +65,14 @@
           <div class="opacity-70">
             <hr
               class="w-full mb-8"
-              style="
-                border: none;
-                height: 2px;
-                background: rgb(255, 136, 80);
-                background: linear-gradient(90deg, rgba(255, 136, 80, 0) 0%, rgba(255, 136, 80, 0.7) 25%, rgba(255, 136, 80, 1) 50%, rgba(255, 136, 80, 0.7) 75%, rgba(255, 136, 80, 0) 100%
-                );
-              "
+              style="border: none; height: 2px; background: rgb(255, 136, 80); background: linear-gradient(90deg, rgba(255, 136, 80, 0) 0%, rgba(255, 136, 80, 0.7) 25%, rgba(255, 136, 80, 1) 50%, rgba(255, 136, 80, 0.7) 75%, rgba(255, 136, 80, 0) 100%);"
             />
           </div>
 
           <!-- CARDS -->
           <div
             class="py-8 mt-16"
-            style="
-              background: rgb(28, 49, 79);
-              background: linear-gradient(90deg, rgba(28, 49, 79, 0) 0%, rgba(24, 41, 66, 1) 100%
-              );
-            "
+            style="background: rgb(28, 49, 79); background: linear-gradient(90deg, rgba(28, 49, 79, 0) 0%, rgba(24, 41, 66, 1) 100%);"
           >
             <ul
               class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60"
@@ -149,12 +135,7 @@
 
           <div
             class="md:w-full h-16 shadow-2xl hidden md:flex mb-40"
-            style="
-              background: rgb(0, 0, 0);
-              background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(255, 136, 80, 1) 20%,rgba(0, 0, 0, 0) 100%
-              );
-              margin-top: -200px;
-            "
+            style="background: rgb(0, 0, 0); background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(255, 136, 80, 1) 20%,rgba(0, 0, 0, 0) 100%);margin-top: -200px;"
           ></div>
 
           <!-- TITLE -->
@@ -169,29 +150,20 @@
           <div class="opacity-70">
             <hr
               class="w-full mb-8"
-              style="
-                border: none;
-                height: 2px;
-                background: rgb(255, 136, 80);
-                background: linear-gradient(
-                  90deg, rgba(255, 136, 80, 0) 0%, rgba(255, 136, 80, 0.7) 25%, rgba(255, 136, 80, 1) 50%, rgba(255, 136, 80, 0.7) 75%, rgba(255, 136, 80, 0) 100%);
-              "
+              style="border: none; height: 2px; background: rgb(255, 136, 80); background: linear-gradient(90deg, rgba(255, 136, 80, 0) 0%, rgba(255, 136, 80, 0.7) 25%, rgba(255, 136, 80, 1) 50%, rgba(255, 136, 80, 0.7) 75%, rgba(255, 136, 80, 0) 100%);"
             />
           </div>
 
           <!-- CARDS -->
           <div
             class="py-8 mt-16"
-            style="
-              background: rgb(28, 49, 79);
-              background: linear-gradient(90deg, rgba(24, 41, 66, 1) 0%, rgba(28, 49, 79, 0) 100%);
-            "
+            style="background: rgb(28, 49, 79); background: linear-gradient(90deg, rgba(24, 41, 66, 1) 0%, rgba(28, 49, 79, 0) 100%);"
           >
             <ul
               class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60"
             >
               <li>
-                <nuxt-link to="/losAng">
+                <nuxt-link to="/yosemite">
                   <div
                     class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
@@ -209,7 +181,7 @@
               </li>
 
               <li>
-                <nuxt-link to="/lasVeg">
+                <nuxt-link to="/carmel">
                   <div
                     class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
@@ -227,7 +199,7 @@
               </li>
 
               <li>
-                <nuxt-link to="/sanFran">
+                <nuxt-link to="/sacramento">
                   <div
                     class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
@@ -249,8 +221,7 @@
           <div
             class="md:w-full h-16 shadow-2xl hidden md:flex mb-40"
             style="
-              background: rgb(0, 0, 0);
-              background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(255, 136, 80, 1) 80%, rgba(0, 0, 0, 0) 100%); margin-top: -200px;"
+              background: rgb(0, 0, 0); background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(255, 136, 80, 1) 80%, rgba(0, 0, 0, 0) 100%); margin-top: -200px;"
           >
           </div>
         </div>
@@ -264,8 +235,7 @@
           <div
             class="w-full h-screen"
             style="
-              background: rgb(17, 24, 39);
-              background: linear-gradient(180deg, rgba(17, 24, 39, 1) 0%, rgba(17, 24, 39, 0.8) 25%, rgba(17, 24, 39, 0.6) 50%, rgba(0, 0, 0, 0) 100%);">
+              background: rgb(17, 24, 39); background: linear-gradient(180deg, rgba(17, 24, 39, 1) 0%, rgba(17, 24, 39, 0.8) 25%, rgba(17, 24, 39, 0.6) 50%, rgba(0, 0, 0, 0) 100%);">
             <div
               class="h-full w-full flex flex-col justify-center items-center text-white"
             >
