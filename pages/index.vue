@@ -35,7 +35,7 @@
                   style="text-shadow: 0 0 16px rgba(0, 0, 30, 0.6)"
                 >
                   <p class="w-full md:text-right font-light">
-                    <nuxt-link to="/Contacts">Noel Vahlström</nuxt-link>
+                    <nuxt-link to="/contacts">Noel Vahlström</nuxt-link>
                   </p>
                 </div>
               </div>
