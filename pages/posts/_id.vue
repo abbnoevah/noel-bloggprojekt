@@ -1,7 +1,7 @@
 <template>
-<div class="w-full min-h-screen mx-auto bg-gray-800 bg-cover" :style="{ backgroundImage: `url(${city.image})`}">
+<div class="w-full min-h-screen mx-auto bg-gray-800 bg-cover bg-fixed" :style="{ backgroundImage: `url(${city.image})`}">
     <div class="w-full min-h-screen bg-black bg-opacity-40 flex justify-center">
-        <div class="pt-40 w-3/4 h-full text-white text-center">
+        <div class="md:p-16 w-5/6 md:w-3/4 text-white text-center m-40">
             <h1 class="text-6xl mb-8" style="text-shadow: 0 0 16px rgba(0, 0, 30, 1)">{{city.title}}</h1>
             <!-- <p class="mb-8">{{city.description}}</p> -->
             <div class="opacity-70">
