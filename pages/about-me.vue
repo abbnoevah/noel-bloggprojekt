@@ -1,4 +1,5 @@
 <template>
+  <div>
   <div
     class="w-full pb-96 flex justify-center bg-fixed bg-cover"
     style="
@@ -18,6 +19,8 @@
         </p>
       </div>
     </div>
-    <credits />
+    
+  </div>
+  <credits class="relative" style="box-shadow: 0 0 32px 0 rgba(0,0,0,0.4);"/>
   </div>
 </template>
