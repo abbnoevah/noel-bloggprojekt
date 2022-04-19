@@ -8,7 +8,7 @@
           textShadow: '0 0 12px rgba(0, 0, 30, 1)'
           }">
             <h1
-            class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-0 p-8 rounded-xl md:rounded-2xl"
+            class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-40 hover:text-gray-300 p-8 rounded-xl md:rounded-2xl"
             >
             {{item.title}}
             </h1>

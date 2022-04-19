@@ -76,7 +76,7 @@
               class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60" style="perspective: 800px;"
             >
 
-            <PostComponent v-for="item in list1" :key="item.id" :item="item"/>
+            <PostComponent v-for="item in list1" :key="item.id" :item="item" id="placeList1"/>
 
               <!-- <li style="transform: rotatey(15deg);">
                 <nuxt-link to="/losAng">
@@ -163,7 +163,7 @@
             <div
               class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60" style="perspective: 800px;"
             >
-              <PostComponent v-for="item in list2" :key="item.id" :item="item"/>
+              <PostComponent v-for="item in list2" :key="item.id" :item="item" id="placeList2"/>
               <!-- <li style="transform: rotatey(-6deg);">
                 <nuxt-link to="/yosemite">
                   <div
@@ -234,11 +234,11 @@
 
       <div class="flex flex-col">
         <div
-          class="w-full h-screen pb-96 shadow-2xl shadow-black flex flex-row flex-wrap justify-center bg-cover bg-top"
+          class="w-full min-h-screen pb-96 md:pb-32 shadow-2xl shadow-black flex flex-row flex-wrap justify-center bg-cover bg-top"
           style="background-image: url(/images/3181241.jpg)"
         >
           <div
-            class="w-full h-screen"
+            class="w-full min-h-screen"
             style="
               background: rgb(17, 24, 39); background: linear-gradient(180deg, rgba(17, 24, 39, 1) 0%, rgba(17, 24, 39, 0.8) 25%, rgba(17, 24, 39, 0.6) 50%, rgba(0, 0, 0, 0) 100%);">
             <div
@@ -247,7 +247,7 @@
               <div class="h-full w-5/6 md:w-8/12 text-center bg-black bg-opacity-0 p-8 md:p-24">
                 <p class="text-3xl md:text-6xl font-light">MIN RESA</p>
 
-                <nuxt-content :document="blog_Resa" class="text-white w-full h-full"></nuxt-content>
+                <nuxt-content :document="blog_Resa" class="text-white w-full h-full text-xl text-lighter pt-32" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1)"></nuxt-content>
               </div>
             </div>
           </div>
@@ -270,7 +270,7 @@ export default {
   name: "IndexPage",
 
   async asyncData({ $content }) {
-    let blog_Resa = await $content("minResa").without(['body']).fetch();
+    let blog_Resa = await $content("minResa").fetch();
     const list1 = await $content("locations").sortBy('id', 'asc').limit(3).without(['body']).fetch();
     const list2 = await $content("locations").sortBy('id', 'asc').skip(3).limit(3).without(['body']).fetch();
 
@@ -303,4 +303,17 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+
+
+#placeList1:hover {
+  transform: scale(0.96);
+  transition: 150ms;
+}
+
+#placeList2:hover {
+  transform: scale(0.96);
+  transition: 150ms;
+}
+
+</style>
