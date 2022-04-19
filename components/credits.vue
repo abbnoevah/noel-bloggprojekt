@@ -17,13 +17,13 @@
                 </div>
                 <div class="w-1/2 md:w-1/4 h-80 bg-gray-900">
                     <ul class="w-full h-full text-gray-400 flex flex-col " style="text-shadow: 0 0 16px rgba(0, 0, 30, 1);">
-                        <li class="w-full h-1/2 flex items-center justify-center text-center md:text-4xl hover:bg-white hover:bg-opacity-0 hover:text-gray-200" id="abtBtn"><nuxt-link to="/about-me">About Me</nuxt-link></li>
-                        <li class="w-full h-1/2 flex items-center justify-center text-center md:text-4xl hover:bg-white hover:bg-opacity-0 hover:text-gray-200" id="ctcBtn"><nuxt-link to="/contacts">Contact</nuxt-link></li>
+                        <li class="w-full h-1/2 flex items-center justify-center text-center md:text-4xl hover:bg-white hover:bg-opacity-0 hover:text-gray-200" id="abtBtn"><nuxt-link to="/about-me">Om mig</nuxt-link></li>
+                        <li class="w-full h-1/2 flex items-center justify-center text-center md:text-4xl hover:bg-white hover:bg-opacity-0 hover:text-gray-200" id="ctcBtn"><nuxt-link to="/contacts">Kontakta mig</nuxt-link></li>
                     </ul>
                 </div>
             <div class="w-1/2 md:w-1/4 h-80 bg-gray-900"></div>
             <div class="w-full h-20 flex flex-row justify-center items-center text-gray-400 bg-gray-800 " style="box-shadow: 0 0 32px 0 rgba(0,15,30,0.6); text-shadow: 0 0 8px rgba(0, 0, 30, 1);">
-                <a class="text-2xl hover:text-gray-200" id="desInsp" href="https://mir-s3-cdn-cf.behance.net/project_modules/source/c31f26102204477.5f316a3b27b41.jpg">Design Inspiration</a>
+                <a class="text-2xl hover:text-gray-200" id="desInsp" href="https://mir-s3-cdn-cf.behance.net/project_modules/source/c31f26102204477.5f316a3b27b41.jpg" target="blank">Designens Inspiration</a>
             </div>
         </div>
     </div>

@@ -34,7 +34,7 @@
               to="/"
               class=""
               style="text-shadow: 0 0 8px rgba(0, 0, 30, 0.8)"
-              >Home</nuxt-link
+              >Hem</nuxt-link
             >
           </li>
           <li>
@@ -42,7 +42,7 @@
               to="/about-me"
               class=""
               style="text-shadow: 0 0 8px rgba(0, 0, 30, 0.8)"
-              >About</nuxt-link
+              >Om mig</nuxt-link
             >
           </li>
           <li>
@@ -50,7 +50,7 @@
               to="/blog"
               class=""
               style="text-shadow: 0 0 8px rgba(0, 0, 30, 0.8)"
-              >Blog</nuxt-link
+              >Blogg</nuxt-link
             >
           </li>
           <li>
@@ -58,7 +58,7 @@
               to="/Contacts"
               class=""
               style="text-shadow: 0 0 8px rgba(0, 0, 30, 0.8)"
-              >Contact</nuxt-link
+              >Kontakt</nuxt-link
             >
           </li>
           <!-- <li>
@@ -265,7 +265,7 @@ export default {
 
 <style>
 .nuxt-link-exact-active {
-  border-bottom: 2px solid rgb(71, 124, 173);
+  border-bottom: 2px solid rgba(255, 136, 80, 0.8);
   padding-bottom: 5px;
 }
 </style>

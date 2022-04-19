@@ -26,7 +26,7 @@
                   class="text-lg md:text-2xl w-full"
                   style="text-shadow: 0 0 16px rgba(0, 0, 30, 0.6)"
                 >
-                  <p class="font-light w-full md:text-right">Blog by</p>
+                  <p class="font-light w-full md:text-right">Blog av</p>
                 </div>
                 <div
                   class="w-full text-2xl  md:text-5xl"
@@ -55,8 +55,8 @@
           <div
             class="w-full h-20 flex justify-center flex-row text-2xl md:text-5xl gap-8 pb-4 font-light bg-cover"
           >
-            <p class="h-full text-white">POPULAR</p>
-            <p class="h-full" style="color: rgba(255, 136, 80, 1)">LOCATIONS</p>
+            <p class="h-full text-white">POPULÄRA</p>
+            <p class="h-full" style="color: rgba(255, 136, 80, 1)">PLATSER</p>
           </div>
 
           <!-- LINE -->
@@ -76,61 +76,10 @@
               class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60" style="perspective: 800px;"
             >
 
+          <!-- PAGES 1 -->
+
             <PostComponent v-for="item in list1" :key="item.id" :item="item" id="placeList1"/>
 
-              <!-- <li style="transform: rotatey(15deg);">
-                <nuxt-link to="/losAng">
-                  <div
-                    class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
-                    style="
-                      background-image: url(/images/551763.jpg);
-                      text-shadow: 0 0 12px rgba(0, 0, 30, 1);
-                    "
-                  >
-                    <h1
-                      class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-0 p-8 rounded-xl md:rounded-2xl"
-                    >
-                      Los Angeles
-                    </h1>
-                  </div>
-                </nuxt-link>
-              </li> -->
-
-              <!-- <li style="transform: rotatey(8deg);">
-                <nuxt-link to="/lasVeg">
-                  <div
-                    class="md:h-72 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
-                    style="
-                      background-image: url(/images/las-vegas-movies-2048x1242.jpg);
-                      text-shadow: 0 0 12px rgba(0, 0, 30, 1);
-                    "
-                  >
-                    <h1
-                      class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-0 p-8 rounded-xl md:rounded-2xl"
-                    >
-                      Las Vegas
-                    </h1>
-                  </div>
-                </nuxt-link>
-              </li> -->
-
-              <!-- <li style="transform: rotatey(6deg);">
-                <nuxt-link to="/sanFran">
-                  <div
-                    class="md:h-64 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
-                    style="
-                      background-image: url(/images/685669.jpg);
-                      text-shadow: 0 0 12px rgba(0, 0, 30, 1);
-                    "
-                  >
-                    <h1
-                      class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-0 p-8 rounded-xl md:rounded-2xl"
-                    >
-                      San Francisco
-                    </h1>
-                  </div>
-                </nuxt-link>
-              </li> -->
             </div>
           </div>
 
@@ -143,8 +92,8 @@
           <div
             class="w-full h-20 flex justify-center flex-row text-2xl md:text-5xl gap-8 mt-46 pt-32 pb-20 font-light "
           >
-            <p class="h-full text-white">OTHER</p>
-            <p class="h-full" style="color: rgba(255, 136, 80, 1)">LOCATIONS</p>
+            <p class="h-full text-white">ANDRA</p>
+            <p class="h-full" style="color: rgba(255, 136, 80, 1)">PLATSER</p>
           </div>
 
           <!-- LINE -->
@@ -163,63 +112,11 @@
             <div
               class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60" style="perspective: 800px;"
             >
+
+            <!-- PAGES 2 -->
+
               <PostComponent v-for="item in list2" :key="item.id" :item="item" id="placeList2"/>
-              <!-- <li style="transform: rotatey(-6deg);">
-                <nuxt-link to="/yosemite">
-                  <div
-                    class="md:h-64 w-80 md:w-96 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
-                    style="
-                      background-image: url(/images/yosemite2.jpg);
-                      text-shadow: 0 0 12px rgba(0, 0, 30, 1);
-                    "
-                  >
-                    <h1
-                      class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-0 p-8 rounded-xl md:rounded-2xl"
-                    >
-                      Yosemite
-                    </h1>
-                  </div>
-                </nuxt-link>
-              </li> -->
 
-              <!-- <li style="transform: rotatey(-8deg);">
-                <nuxt-link to="/carmel">
-                  <div
-                    class="md:h-72 w-80 md:w-96 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
-                    style="
-                      background-image: url(/images/carmel.jpg);
-                      text-shadow: 0 0 12px rgba(0, 0, 30, 1);
-                    "
-                  >
-                    <h1
-                      class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-0 p-8 rounded-xl md:rounded-2xl"
-                    >
-                      Carmel by the Sea
-                    </h1>
-                  </div>
-                </nuxt-link>
-              </li> -->
-
-              <!-- <li style="transform: rotatey(-15deg);">
-              <div class="h-full w-full">
-                
-              </div>
-                <nuxt-link to="/sacramento">
-                  <div
-                    class="md:h-80 w-80 md:w-96 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
-                    style="
-                      background-image: url(/images/sacramento.jpg);
-                      text-shadow: 0 0 12px rgba(0, 0, 30, 1);
-                    "
-                  >
-                    <h1
-                      class="h-full w-full bg-black bg-opacity-30 hover:bg-black hover:bg-opacity-0 p-8 rounded-xl md:rounded-2xl"
-                    >
-                      Sacramento
-                    </h1>
-                  </div>
-                </nuxt-link>
-              </li> -->
             </div>
           </div>
 
