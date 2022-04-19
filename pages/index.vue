@@ -3,7 +3,7 @@
     <div>
       <div>
         <div
-          class="w-full sm:w-full h-screen bg-cover bg-top"
+          class="bg-fixed w-full sm:w-full h-screen bg-cover bg-top"
           style="background-image: url(/images/big-sur-mountains-clear-sky-sunrise-dawn-morning-macos-big-5120x2880-1496.jpg);"
         >
           <div
@@ -77,7 +77,7 @@
             >
 
             <PostComponent v-for="item in list1" :key="item.id" :item="item"/>
-            
+
               <!-- <li style="transform: rotatey(15deg);">
                 <nuxt-link to="/losAng">
                   <div
