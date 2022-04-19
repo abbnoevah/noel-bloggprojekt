@@ -1,12 +1,10 @@
 <template>
-  <parallax>
+  <div>
     <div>
       <div>
         <div
           class="w-full sm:w-full h-screen bg-cover bg-top"
-          style="
-            background-image: url(/images/big-sur-mountains-clear-sky-sunrise-dawn-morning-macos-big-3840x2160-1496.jpg);
-          "
+          style="background-image: url(/images/big-sur-mountains-clear-sky-sunrise-dawn-morning-macos-big-5120x2880-1496.jpg);"
         >
           <div
             class="bg-black bg-opacity-40 w-full h-full flex flex-col items-center"
@@ -74,10 +72,13 @@
             class="py-8 mt-16"
             style="background: rgb(28, 49, 79); background: linear-gradient(90deg, rgba(28, 49, 79, 0) 0%, rgba(24, 41, 66, 1) 100%);"
           >
-            <ul
-              class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60"
+            <div
+              class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60" style="perspective: 800px;"
             >
-              <li>
+
+            <PostComponent v-for="item in list1" :key="item.id" :item="item"/>
+            
+              <!-- <li style="transform: rotatey(15deg);">
                 <nuxt-link to="/losAng">
                   <div
                     class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
@@ -93,12 +94,12 @@
                     </h1>
                   </div>
                 </nuxt-link>
-              </li>
+              </li> -->
 
-              <li>
+              <!-- <li style="transform: rotatey(8deg);">
                 <nuxt-link to="/lasVeg">
                   <div
-                    class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
+                    class="md:h-72 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
                       background-image: url(/images/las-vegas-movies-2048x1242.jpg);
                       text-shadow: 0 0 12px rgba(0, 0, 30, 1);
@@ -111,12 +112,12 @@
                     </h1>
                   </div>
                 </nuxt-link>
-              </li>
+              </li> -->
 
-              <li>
+              <!-- <li style="transform: rotatey(6deg);">
                 <nuxt-link to="/sanFran">
                   <div
-                    class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
+                    class="md:h-64 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
                       background-image: url(/images/685669.jpg);
                       text-shadow: 0 0 12px rgba(0, 0, 30, 1);
@@ -129,8 +130,8 @@
                     </h1>
                   </div>
                 </nuxt-link>
-              </li>
-            </ul>
+              </li> -->
+            </div>
           </div>
 
           <div
@@ -159,13 +160,14 @@
             class="py-8 mt-16"
             style="background: rgb(28, 49, 79); background: linear-gradient(90deg, rgba(24, 41, 66, 1) 0%, rgba(28, 49, 79, 0) 100%);"
           >
-            <ul
-              class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60"
+            <div
+              class="flex flex-col md:flex-row sm:h-24 md:h-96 md:w-full sm:w-3/4 items-center md:justify-center gap-8 md:gap-32 bg-opacity-60" style="perspective: 800px;"
             >
-              <li>
+              <PostComponent v-for="item in list2" :key="item.id" :item="item"/>
+              <!-- <li style="transform: rotatey(-6deg);">
                 <nuxt-link to="/yosemite">
                   <div
-                    class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
+                    class="md:h-64 w-80 md:w-96 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
                       background-image: url(/images/yosemite2.jpg);
                       text-shadow: 0 0 12px rgba(0, 0, 30, 1);
@@ -178,12 +180,12 @@
                     </h1>
                   </div>
                 </nuxt-link>
-              </li>
+              </li> -->
 
-              <li>
+              <!-- <li style="transform: rotatey(-8deg);">
                 <nuxt-link to="/carmel">
                   <div
-                    class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
+                    class="md:h-72 w-80 md:w-96 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
                       background-image: url(/images/carmel.jpg);
                       text-shadow: 0 0 12px rgba(0, 0, 30, 1);
@@ -196,12 +198,15 @@
                     </h1>
                   </div>
                 </nuxt-link>
-              </li>
+              </li> -->
 
-              <li>
+              <!-- <li style="transform: rotatey(-15deg);">
+              <div class="h-full w-full">
+                
+              </div>
                 <nuxt-link to="/sacramento">
                   <div
-                    class="md:h-80 w-80 md:w-96 z-99 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
+                    class="md:h-80 w-80 md:w-96 bg-cover shadow-2xl text-center text-white text-2xl md:text-4xl rounded-xl md:rounded-2xl"
                     style="
                       background-image: url(/images/sacramento.jpg);
                       text-shadow: 0 0 12px rgba(0, 0, 30, 1);
@@ -214,8 +219,8 @@
                     </h1>
                   </div>
                 </nuxt-link>
-              </li>
-            </ul>
+              </li> -->
+            </div>
           </div>
 
           <div
@@ -241,6 +246,8 @@
             >
               <div class="h-full w-5/6 md:w-8/12 text-center bg-black bg-opacity-0 p-8 md:p-24">
                 <p class="text-3xl md:text-6xl font-light">MIN RESA</p>
+
+                <nuxt-content :document="blog_Resa" class="text-white w-full h-full"></nuxt-content>
               </div>
             </div>
           </div>
@@ -252,20 +259,47 @@
 
   <credits class="relative" style="box-shadow: 0 0 32px 0 rgba(0,0,0,0.4);"/>
 
-  </parallax>
+  </div>
 </template>
 
 <script>
+
+import PostComponent from "../components/PostComponent.vue";
+
 export default {
   name: "IndexPage",
 
   async asyncData({ $content }) {
-    let homePage = await $content("homePage").fetch();
+    let blog_Resa = await $content("minResa").without(['body']).fetch();
+    const list1 = await $content("locations").sortBy('id', 'asc').limit(3).without(['body']).fetch();
+    const list2 = await $content("locations").sortBy('id', 'asc').skip(3).limit(3).without(['body']).fetch();
+
+    console.log(list1);
+
+    // resa = resa.filter(function (page) {
+    //   console.log(page.theme);
+    //   if (page.title === "Min Resa") return true;
+    //   return false;
+    // });
 
     return {
-      homePage,
+      blog_Resa,
+      list1,
+      list2
     };
   },
+
+  data() {
+        return {
+            PostComponent
+        }
+    },
+
+  methods: {
+    goToDish(id) {
+      this.$router.push('/posts/'+id)
+    }
+  }
 };
 </script>
 

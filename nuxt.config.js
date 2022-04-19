@@ -53,5 +53,19 @@ generate: {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  generate: {
+    routes: [
+      "locations/location1",
+      "locations/location2",
+      "locations/location3",
+      "locations/location4",
+      "locations/location5",
+      "locations/location6",
+      "locations/location7",
+      "locations/location8",
+      "minResa"
+    ]
   }
 }

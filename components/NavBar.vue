@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed w-full p-6 bg-transarent blur-xl">
+  <nav class="fixed w-full p-6 bg-transarent blur-xl z-40">
     <div class="flex items-center justify-between">
       <div class="">
         <Tailwind />
@@ -61,13 +61,13 @@
               >Contact</nuxt-link
             >
           </li>
-          <li>
+          <!-- <li>
             <nuxt-link
               to="/Contacts"
               class="cta bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white font-semibold"
               >Sign Up</nuxt-link
             >
-          </li>
+          </li> -->
         </ul>
       </div>
 
@@ -93,7 +93,7 @@
       </transition>
 
       <aside
-        class="p-5 transform top-0 left-0 w-64 bg-white fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30"
+        class="p-5 transform top-0 left-0 w-64 bg-gray-800 text-white fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30"
         :class="isOpen ? 'translate-x-0' : '-translate-x-full'"
       >
         <div class="close">
@@ -108,7 +108,7 @@
               stroke-linejoin="round"
               stroke-width="2"
               viewBox="0 0 24 24"
-              stroke="currentColor"
+              stroke="gray-800"
             >
               <path d="M6 18L18 6M6 6l12 12"></path>
             </svg>
@@ -124,44 +124,40 @@
 
         <ul class="divide-y font-sans">
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Home</a
+            <nuxt-link
+              to="/"
+              class="my-4 inline-block"
+              >Home</nuxt-link
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Services</a
+            <nuxt-link
+              to="/about-me"
+              class="my-4 inline-block"
+              >About</nuxt-link
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Features</a
-            >
-          </li>
-          <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >FAQ</a
-            >
-          </li>
-          <li>
-            <a href="#" @click="isOpen = false" class="my-4 inline-block"
-              >Contact</a
+            <nuxt-link
+              to="/blog"
+              class="my-4 inline-block"
+              >Blog</nuxt-link
             >
           </li>
           <li>
             <a
               href="#"
               @click="isOpen = false"
-              class="my-8 w-full text-center font-semibold cta inline-block bg-blue-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
-              >Sign Up</a
+              class="my-8 w-full text-center font-semibold cta inline-block bg-red-500 hover:bg-blue-600 px-3 py-2 rounded text-white"
+              >ABB Gymnasiet</a
             >
           </li>
         </ul>
 
         <div class="follow">
-          <p class="italic font-sans text-sm">follow us:</p>
+          <p class="italic font-sans text-sm">follow me:</p>
           <div class="social flex space-x-5 mt-4">
-            <a href="#">
+            <a href="https://www.youtube.com/watch?v=pwTzHbIXSlI">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -178,7 +174,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="#">
+            <a href="https://www.youtube.com/watch?v=pwTzHbIXSlI">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -195,7 +191,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/irsta.noel/">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -212,7 +208,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="#">
+            <a href="https://www.youtube.com/channel/UCVHONdKTEQv9DPkPJFRdGZA">
               <svg
                 aria-hidden="true"
                 focusable="false"
