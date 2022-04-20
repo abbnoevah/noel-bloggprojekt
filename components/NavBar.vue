@@ -28,7 +28,7 @@
 
       <!-- NavBar -->
       <div class="hidden md:block text-gray-200 text-lg flex justify-end">
-        <ul class="flex space-x-8 text-smfont-sans flex justify-end">
+        <ul class="flex space-x-8 font-sans flex justify-end">
           <li>
             <nuxt-link
               to="/"
