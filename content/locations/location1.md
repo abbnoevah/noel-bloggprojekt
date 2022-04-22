@@ -4,13 +4,32 @@ title: Los Angeles
 image: /images/551763.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+# **Kort Fakta**
+
 <br>
+
+Los Angeles är en av världens mest berömda och välkända städer. Staden som ofta pratas om vid forkortniningen L.A . Namnet _Los Angeles_ kommer ifrån spanskans _Los Ángeles_ och betyder _The Angels_ eller _Änglarna_. Några välkända platser i staden är bland annat _Beverly Hills_ som är kännt för de stora husen, _Hollywood_ som ofta associeras med den amerikanska filmindustrin. Längs med havet ligger den avlånga strandområdet _Venice Beach_ där du även kan hitta den berömda _Santa Monica Pier_.
+
 <br>
-Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor hodor hodor; hodor hodor; hodor hodor hodor! Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor...
+
+# **Klimat**
+
 <br>
+
+Om du reser till Los Angeles kan du inte förvänta dig någon skidåkning eller snö. Staden har ett varmt klimat med en väldigt torr sommmar och en mycket mild vinter (genomsnittlig temperatur på ca. 20 °C under vintern). Inom Los Angeles sker ofta ett fenomen vid namn _microclimate_ vilket innebär att temperaturerna kan variera kraftigt på välidgt korta avtstånd.
+
 <br>
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.
+
+# **Ekonomi**
+
 <br>
+
+Stadens ekonomi är främst driven av internationell underhållning via television, film, music och annan form av produktion, bränsle, teknologi, mode och även turism. Det finns även fler stora industrier. Staden var rankat efter att ha det 19:e mest tävlingsinriktade financiella centrumet i världen. Staden har den tredje högsta GDP:n i världen efter _New York_ och _Tokyo_.
+
 <br>
-Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents..
+
+**Film & Media**
+
+<br>
+
+Stadsdelen _Hollywood_ har blivit igenkännt som världen huvudcentrum för filmindustrin och televisionsindustrin. Staden är hem till flertal stora studios och massiva skivbolag. Los Angeles hostad även de årligt utgivna _Academy Awards_, _Primetime Emmy Awards_ och _Grammy Awards_ med mera. I staden finns dessutom USA: äldsta filmskola, "_USC School of Cinematic Arts_".

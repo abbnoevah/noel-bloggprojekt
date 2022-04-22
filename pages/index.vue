@@ -26,7 +26,7 @@
                   class="text-lg md:text-2xl w-full"
                   style="text-shadow: 0 0 16px rgba(0, 0, 30, 0.6)"
                 >
-                  <p class="font-light w-full md:text-right">Blog av</p>
+                  <p class="font-light w-full md:text-right">Blogg av</p>
                 </div>
                 <div
                   class="w-full text-2xl  md:text-5xl"

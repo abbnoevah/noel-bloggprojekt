@@ -4,13 +4,32 @@ title: Las Vegas
 image: /images/las-vegas.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+# **Kort Fakta**
+
 <br>
+
+Las Vegas, vilket är spanska för "The Meadows", även kännt som enbart "Vegas" är den 26:e mest befolkade staden i USA. Staden må ligga i Nevada, men med tanke på att den ligger så pass nära Kalifornien och är en så pass välkänd och berömd stad så inkluderar jag den i min blogg i alla fall. Staden är mycket känd för sina färgglada gator, stora hotell och berömda kasinon. Verkligen en annorlunda upplevelse.
+
 <br>
-Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor hodor hodor; hodor hodor; hodor hodor hodor! Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor...
+
+# **Klimat**
+
 <br>
+
+Staden ligger långt ute i Nevadas öken, och har som du kanske kan lista ut, ett väldigt varmt och torrt klimat. Dock är temperaturerna lite mer varierande än t.ex. Los Angeles. Vintrarna är generellt sätt mycket milda och korta, men stuntals kallare än vissa andra städer. Staden har en högsta temperatur på 47 °C och lägsta temperatur på -13 °C
+
 <br>
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.
+
+# **Ekonomi**
+
 <br>
+
+De primära drivkrafterna för Las Vegas ekonomi är turism, spel och konventioner, som i sin tur matar detaljhandeln och restaurangbranschen.
+
 <br>
-Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents..
+
+# **Saker att göra**
+
+<br>
+
+Det finns väldigt mycket att göra i Las Vegas. Bortsett från alla stora hotell och färglada gator så finns det en massa saker att göra. Du har säkert att Las Vegas är välberömt för sina stora kasinon, fina restaurangen och fester. Det finns en hel del intressanta saker att utforska.

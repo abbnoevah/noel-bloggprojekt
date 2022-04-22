@@ -6,13 +6,14 @@
             <div class="w-1/2 md:w-1/4 h-80 bg-gray-900">
             </div>
                 <div class="w-1/2 md:w-1/4 h-80 flex flex-col bg-gray-900">
-                    <ul class="w-full h-full text-gray-400 p-8 font-mono" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1);">
-                        <li class="w-full h-1/6 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LA"><nuxt-link to="/posts/1">Los Angeles</nuxt-link></li>
-                        <li class="w-full h-1/6 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LV"><nuxt-link to="/posts/2">Las Vegas</nuxt-link></li>
-                        <li class="w-full h-1/6 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="SF"><nuxt-link to="/posts/3">San Francisco</nuxt-link></li>
-                        <li class="w-full h-1/6 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="YM"><nuxt-link to="/posts/4">Yosemite</nuxt-link></li>
-                        <li class="w-full h-1/6 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="CA"><nuxt-link to="/posts/5">Carmel by the Sea</nuxt-link></li>
-                        <li class="w-full h-1/6 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="SM"><nuxt-link to="/posts/6">Sacramento</nuxt-link></li>
+                    <ul class="w-full h-full text-gray-400 p-4 font-mono gap-y-4" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1);"> 
+                        <li class="w-full h-1/4 flex items-center justify-center text-center text-gray-300 hover:text-gray-200 md:text-2xl" id="LA">Navigation</li>
+                        <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LA"><nuxt-link to="/posts/1">Los Angeles</nuxt-link></li>
+                        <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LV"><nuxt-link to="/posts/2">Las Vegas</nuxt-link></li>
+                        <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="SF"><nuxt-link to="/posts/3">San Francisco</nuxt-link></li>
+                        <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="YM"><nuxt-link to="/posts/4">Yosemite</nuxt-link></li>
+                        <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="CA"><nuxt-link to="/posts/5">Carmel by the Sea</nuxt-link></li>
+                        <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="SM"><nuxt-link to="/posts/6">Sacramento</nuxt-link></li>
                     </ul>
                 </div>
                 <div class="w-1/2 md:w-1/4 h-80 bg-gray-900">

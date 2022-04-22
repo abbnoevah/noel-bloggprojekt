@@ -4,13 +4,25 @@ title: San Francisco
 image: /images/685669.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+# **Kort Fakta**
+
+<br>
+
+San Francisco är ännu en mycket välkänd stad på Kaliforniens kust. Staden har ett invånarantal på ungefär 870 000 invånare och en landarea på ungefär 600 kvadratkilometer.
+
 <br>
 <br>
-Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor hodor hodor; hodor hodor; hodor hodor hodor! Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor...
+
+# **Ekonomi**
+
 <br>
+
+Tillsammans med San Jose och Oakland har en kombinerad GDP av 1.1 biljoner dollar. 
+
 <br>
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.
+
+# **Sevärdgheter**
+
 <br>
-<br>
-Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents..
+
+Som många vet så ligger den mycket välberömda Golden Gate bron på San Francisco. Bron har en längd på 2737 meter (ca. 1.7 miles) och ansluter den 1.6km breda San Francisco Bay. Det är världens mest fotograferade bro.
