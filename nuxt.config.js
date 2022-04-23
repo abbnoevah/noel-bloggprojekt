@@ -10,7 +10,7 @@ generate: {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Noels Bloggprojekt',
+    title: 'Visit California | Noels Bloggprojekt',
     htmlAttrs: {
       lang: 'en'
     },
