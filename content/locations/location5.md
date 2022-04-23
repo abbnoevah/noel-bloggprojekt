@@ -2,34 +2,27 @@
 id: 5
 title: Carmel by the Sea
 image: /images/pebble-beach.jpg
+image2: /images/bridge.jpg
 ---
 
 # **Kort Fakta**
 
 <br>
 
-Los Angeles må vara en av världens mest berömda och välkända städer.
+Carmel by the Sea, ofta enbart kallat för Carmel är en mindre stad som även den ligger vid kusten. Staden ligger något söderut om San Francisco längs Big Sur kusten. Till skillnad från städer som Los Angeles och Las Vegas samt andra större städer har denna stad inte särskilt mycket höghus, utan består mer av mindre hus och byggnader, ungeför som en bostadsort i Sverige. 
 
 <br>
 
-# **Klimat**
+# **Sevärdigheter**
 
 <br>
 
-Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor hodor hodor; hodor hodor; hodor hodor hodor! Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor...
+Något som man måste se, som verkligen inte går att missa om man befinner sig i staden är den berömda **_Pebble Beach_** som dessutom har sin egna, även den mycket berömda golfbana, **_Pebble Beach Golf Links_**. Banan är rankad 1:a som bästa publika golfbana i landet. Banan håller även ofta i många stora golftävlingar som US Open.
 
 <br>
 
-# **Ekonomi**
+# **Big Sur**
 
 <br>
 
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.
-
-<br>
-
-# **Film & Media**
-
-<br>
-
-Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents..
+Big Sur är en del av den centrala kusten i Californien. Området har ett mycket bergligt klimat och en lång väg som går längst med vattnet en bit över markytan. Big Sur har även funnits som bakgrund till MacOS. Området har inga specifika gränser.

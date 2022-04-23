@@ -3,11 +3,11 @@
     <div>
       <div>
         <div
-          class="bg-fixed w-full sm:w-full h-screen bg-cover bg-top"
+          class="bg-fixed w-full sm:w-full min-h-screen bg-cover bg-top"
           style="background-image: url(/images/big-sur-mountains-clear-sky-sunrise-dawn-morning-macos-big-5120x2880-1496.jpg);"
         >
           <div
-            class="bg-black bg-opacity-40 w-full h-full flex flex-col items-center"
+            class="bg-black bg-opacity-40 w-full min-h-screen flex flex-col items-center justify-between"
           >
             <div
               class="flex flex-col md:flex-row justify-center mt-64 md:mt-96 min-w-10/12 md:w-11/12 gap-12"
@@ -29,7 +29,7 @@
                   <p class="font-light w-full md:text-right">Blogg av</p>
                 </div>
                 <div
-                  class="w-full text-2xl  md:text-5xl"
+                  class="w-full text-2xl md:text-5xl"
                   style="text-shadow: 0 0 16px rgba(0, 0, 30, 0.6)"
                 >
                   <p class="w-full md:text-right font-light">
@@ -141,10 +141,10 @@
             <div
               class="h-full w-full flex flex-col justify-center items-center text-white"
             >
-              <div class="h-full w-5/6 md:w-8/12 text-center bg-black bg-opacity-0 p-8 md:p-24">
+              <div class="w-5/6 md:w-8/12 text-center bg-black bg-opacity-0 p-8 md:p-24">
                 <p class="text-3xl md:text-6xl font-light">MIN RESA</p>
 
-                <nuxt-content :document="blog_Resa" class="text-white w-full h-full text-xl text-lighter pt-32 text-justify" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1)"></nuxt-content>
+                <nuxt-content :document="blog_Resa" class="text-white w-full h-full text-xl text-lighter md:text-2xl py-24 text-justify" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1)"></nuxt-content>
               </div>
             </div>
           </div>

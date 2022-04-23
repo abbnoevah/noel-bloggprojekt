@@ -58,7 +58,7 @@
               to="/Contacts"
               class=""
               style="text-shadow: 0 0 8px rgba(0, 0, 30, 0.8)"
-              >Kontakt</nuxt-link
+              >Kontakta mig</nuxt-link
             >
           </li>
           <!-- <li>
@@ -127,21 +127,21 @@
             <nuxt-link
               to="/"
               class="my-4 inline-block"
-              >Home</nuxt-link
+              >Hem</nuxt-link
             >
           </li>
           <li>
             <nuxt-link
               to="/about-me"
               class="my-4 inline-block"
-              >About</nuxt-link
+              >Om mig</nuxt-link
             >
           </li>
           <li>
             <nuxt-link
               to="/blog"
               class="my-4 inline-block"
-              >Blog</nuxt-link
+              >Blogg</nuxt-link
             >
           </li>
           <li>
@@ -155,9 +155,9 @@
         </ul>
 
         <div class="follow">
-          <p class="italic font-sans text-sm">follow me:</p>
+          <p class="italic font-sans text-sm">följ mig:</p>
           <div class="social flex space-x-5 mt-4">
-            <a href="https://www.youtube.com/watch?v=pwTzHbIXSlI">
+            <a href="https://twitter.com/abbsverige?lang=en" target="blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -174,7 +174,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="https://www.youtube.com/watch?v=pwTzHbIXSlI">
+            <a href="https://www.facebook.com/noel.vahlstrom.1/" target="blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -191,7 +191,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="https://www.instagram.com/irsta.noel/">
+            <a href="https://www.instagram.com/irsta.noel/" target="blank">
               <svg
                 aria-hidden="true"
                 focusable="false"
@@ -208,7 +208,7 @@
                 ></path>
               </svg>
             </a>
-            <a href="https://www.youtube.com/channel/UCVHONdKTEQv9DPkPJFRdGZA">
+            <a href="https://www.youtube.com/channel/UCVHONdKTEQv9DPkPJFRdGZA" target="blank">
               <svg
                 aria-hidden="true"
                 focusable="false"

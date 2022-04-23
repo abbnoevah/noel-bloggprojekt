@@ -2,6 +2,7 @@
 id: 3
 title: San Francisco
 image: /images/685669.jpg
+image2: /images/sanfran2.jpg
 ---
 
 # **Kort Fakta**
@@ -11,17 +12,16 @@ image: /images/685669.jpg
 San Francisco är ännu en mycket välkänd stad på Kaliforniens kust. Staden har ett invånarantal på ungefär 870 000 invånare och en landarea på ungefär 600 kvadratkilometer.
 
 <br>
-<br>
 
 # **Ekonomi**
 
 <br>
 
-Tillsammans med San Jose och Oakland har en kombinerad GDP av 1.1 biljoner dollar. 
+Tillsammans med **_San Jose_** och **_Oakland_** har en kombinerad GDP av 1.1 biljoner dollar. 
 
 <br>
 
-# **Sevärdgheter**
+# **Sevärdigheter**
 
 <br>
 

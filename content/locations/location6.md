@@ -2,21 +2,22 @@
 id: 6
 title: Sacramento
 image: /images/sacramento2.jpg
+image2: /images/sacramento-overview.jpg
 ---
 
 # **Kort Fakta**
 
 <br>
 
-Los Angeles må vara en av världens mest berömda och välkända städer.
+Till skillnad från det som vanligtvis antas så är **_Sacramento_** faktiskt Kaliforniens huvudstad, detta innebär att här finns även _Kaliforniens delstatslegislatur_, _Kaliforniens guvernör_ och _Kaliforniens högsta domstol_. Staden har en markyta på ungefär 259 kvadratkilometer och ligger ca. åtta meter över havet.
 
 <br>
 
-# **Klimat**
+# **Intressanta Platser**
 
 <br>
 
-Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor hodor hodor; hodor hodor; hodor hodor hodor! Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor...
+Om du är kulturintresserad så är troligen Sacramento en stad för dig, staden har en ganska intressant historia och det finns mängder av kultureveneman runt om i staden. Det finns bland annat flertal teatrar, flera stora museer, därbland _The Crocker Art Museum_ som dessutom fick en stor ytexpansion för bågra år sedan. Utöver det finns även _California State Railroad Museum_ och _The California Automobile Museum_. 
 
 <br>
 
@@ -24,12 +25,4 @@ Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor ho
 
 <br>
 
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.
-
-<br>
-
-# **Film & Media**
-
-<br>
-
-Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents..onic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents..
+_Sutter Health_, _Blue Diamond Growers_, _Aerojet Rocketdyne_, _Teichert_, och _The McClatchy Company_ är några bland många stora företag baserade just i Sacramento.

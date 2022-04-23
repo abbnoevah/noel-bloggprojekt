@@ -2,13 +2,14 @@
 id: 2
 title: Las Vegas
 image: /images/las-vegas.jpg
+image2: /images/las-vegas-movies-2048x1242.jpg
 ---
 
 # **Kort Fakta**
 
 <br>
 
-Las Vegas, vilket är spanska för "The Meadows", även kännt som enbart "Vegas" är den 26:e mest befolkade staden i USA. Staden må ligga i Nevada, men med tanke på att den ligger så pass nära Kalifornien och är en så pass välkänd och berömd stad så inkluderar jag den i min blogg i alla fall. Staden är mycket känd för sina färgglada gator, stora hotell och berömda kasinon. Verkligen en annorlunda upplevelse.
+Las Vegas, vilket är spanska för **"The Meadows"**, även kännt som enbart **"Vegas"** är den 26:e mest befolkade staden i USA. Staden må ligga i **_Nevada_**, men med tanke på att den ligger så pass nära **_Kalifornien_** och är en så pass välkänd och berömd stad så inkluderar jag den i min blogg i alla fall. Staden är mycket känd för sina färgglada gator, stora hotell och berömda kasinon. Verkligen en annorlunda upplevelse.
 
 <br>
 

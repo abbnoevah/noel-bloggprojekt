@@ -2,6 +2,7 @@
 id: 4
 title: Yosemite
 image: /images/yosemite2.jpg
+image2: /images/tree.jpg
 ---
 
 # **Kort Fakta**

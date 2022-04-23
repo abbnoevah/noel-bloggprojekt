@@ -6,8 +6,8 @@
             <div class="w-1/2 md:w-1/4 h-80 bg-gray-900">
             </div>
                 <div class="w-1/2 md:w-1/4 h-80 flex flex-col bg-gray-900">
-                    <ul class="w-full h-full text-gray-400 p-4 font-mono gap-y-4" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1);"> 
-                        <li class="w-full h-1/4 flex items-center justify-center text-center text-gray-300 hover:text-gray-200 md:text-2xl" id="LA">Navigation</li>
+                    <ul class="w-full h-full text-gray-400 p-4 font-mono gap-y-4" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1);" id="city-list2"> 
+                        <li class="w-full h-1/4 flex items-center justify-center text-center text-gray-300 hover:text-gray-200 md:text-2xl" id="nav">Navigation</li>
                         <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LA"><nuxt-link to="/posts/1">Los Angeles</nuxt-link></li>
                         <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LV"><nuxt-link to="/posts/2">Las Vegas</nuxt-link></li>
                         <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="SF"><nuxt-link to="/posts/3">San Francisco</nuxt-link></li>
@@ -17,7 +17,7 @@
                     </ul>
                 </div>
                 <div class="w-1/2 md:w-1/4 h-80 bg-gray-900">
-                    <ul class="w-full h-full text-gray-400 flex flex-col " style="text-shadow: 0 0 16px rgba(0, 0, 30, 1);">
+                    <ul class="w-full h-full text-gray-400 flex flex-col " style="text-shadow: 0 0 16px rgba(0, 0, 30, 1); ;" id="abtctc-list2">
                         <li class="w-full h-1/2 flex items-center justify-center text-center md:text-4xl hover:bg-white hover:bg-opacity-0 hover:text-gray-200" id="abtBtn"><nuxt-link to="/about-me">Om mig</nuxt-link></li>
                         <li class="w-full h-1/2 flex items-center justify-center text-center md:text-4xl hover:bg-white hover:bg-opacity-0 hover:text-gray-200" id="ctcBtn"><nuxt-link to="/contacts">Kontakta mig</nuxt-link></li>
                     </ul>
@@ -42,5 +42,29 @@
 #abtBtn:hover {
     transition: 200ms;
     border-radius: 16px;
+}
+
+#city-list2 {
+    border-right: solid 4px rgb(0,0,0);
+    border-left: solid 4px rgb(0,0,0);
+    border: none;
+}
+
+#city-list2:hover {
+    border-right: solid 4px rgb(55 65 81); 
+    border-left: solid 4px rgb(55 65 81);
+    transition: 20ms;
+}
+
+#abtctc-list2 {
+    border-right: solid 4px rgb(0,0,0);
+    border-left: solid 4px rgb(0,0,0);
+    border: none;
+}
+
+#abtctc-list2:hover {
+    border-right: solid 4px rgb(55 65 81); 
+    border-left: solid 4px rgb(55 65 81);
+    transition: 20ms;
 }
 </style>
