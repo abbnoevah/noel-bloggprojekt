@@ -7,7 +7,7 @@
             </div>
                 <div class="w-1/2 md:w-1/4 h-80 flex flex-col bg-gray-900">
                     <ul class="w-full h-full text-gray-400 p-4 font-mono gap-y-4" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1);" id="city-list2"> 
-                        <li class="w-full h-1/4 flex items-center justify-center text-center text-gray-300 hover:text-gray-200 md:text-2xl" id="nav">Navigation</li>
+                        <li class="w-full h-1/4 flex items-center justify-center text-center text-gray-300 hover:text-gray-200 md:text-2xl" id="nav">Navigering</li>
                         <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LA"><nuxt-link to="/posts/1">Los Angeles</nuxt-link></li>
                         <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="LV"><nuxt-link to="/posts/2">Las Vegas</nuxt-link></li>
                         <li class="w-full h-1/8 flex items-center justify-center text-center hover:text-gray-200 md:text-xl" id="SF"><nuxt-link to="/posts/3">San Francisco</nuxt-link></li>

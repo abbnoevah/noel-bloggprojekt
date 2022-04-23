@@ -141,10 +141,10 @@
             <div
               class="h-full w-full flex flex-col justify-center items-center text-white"
             >
-              <div class="w-5/6 md:w-8/12 text-center bg-black bg-opacity-0 p-8 md:p-24">
+              <div class="w-full md:w-8/12 text-center bg-black bg-opacity-0 p-8 md:p-24">
                 <p class="text-3xl md:text-6xl font-light">MIN RESA</p>
 
-                <nuxt-content :document="blog_Resa" class="text-white w-full h-full text-xl text-lighter md:text-2xl py-24 text-justify" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1)"></nuxt-content>
+                <nuxt-content :document="blog_Resa" class="text-white w-full h-full text-lg text-lighter md:text-2xl py-24 text-justify" style="text-shadow: 0 0 8px rgba(0, 0, 30, 1)"></nuxt-content>
               </div>
             </div>
           </div>

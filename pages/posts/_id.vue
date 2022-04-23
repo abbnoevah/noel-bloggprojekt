@@ -15,7 +15,7 @@
                 class="w-full mt-12"
                 style="border: none; height: 2px; background: rgb(180, 180, 230); background: linear-gradient(90deg, rgba(180, 180, 230, 0) 0%, rgba(180, 180, 230, 0.7) 25%, rgba(180, 180, 230, 1) 50%, rgba(180, 180, 230, 0.7) 75%, rgba(180, 180, 230, 0) 100%);"
                 />
-            <div class="sm:hiddenw-full h-48 md:h-96 bg-cover mt-12 border-2 border-white" :style="{backgroundImage: `url(${city.image2})` }" style="box-shadow: 0 16px 32px 0 rgba(0,0,0,0.4);"></div>
+            <div class="w-full h-48 md:h-96 bg-cover mt-12 border-2 border-white" :style="{backgroundImage: `url(${city.image2})` }" style="box-shadow: 0 16px 32px 0 rgba(0,0,0,0.4);"></div>
         </div>
         <!-- <div class="h-16 w-40 bg-gray-800" @click="city.id"></div> -->
         
