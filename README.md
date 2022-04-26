@@ -2,4 +2,4 @@
 
 [Netlify Länk](https://caliblog.netlify.app/)
  )
-#### **Länken till designens inpsiration finne längst ner på hemidan ( Designens Inspiration )**
+#### **Länken till designens inpsiration finns längst ner på hemidan ( Designens Inspiration )**
